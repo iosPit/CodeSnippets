@@ -5,4 +5,3 @@ Capture code and lessons learned from YouTube tutorials.
 * [Create Custom Button - Brian Advent](https://www.youtube.com/watch?v=XVC0wQND1N8)
 * Create the buttons seen in image
 * Assign actions using ***Button*** and ***.onTapGesture***
-![image](/Users/pitambardayal/Desktop/ColorButtons.png )
