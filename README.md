@@ -11,3 +11,6 @@ Capture code and lessons learned from YouTube tutorials.
 * [Create Countdown Timer in UIKit and SwiftUI - Rebeloper](https://www.youtube.com/watch?v=-Xy1jBgGn7E)
 * Create countdown timer shown in image
 * Image TBD
+
+## Animations
+* [Snake Text Animation](https://www.youtube.com/watch?v=-Xy1jBgGn7E)
