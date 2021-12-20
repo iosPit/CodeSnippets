@@ -12,6 +12,7 @@ struct SnakeTextAnimation: View {
     @State private var isEnabled = false
     @State private var dragAmount = CGSize.zero
     
+    
     var body: some View {
         HStack(spacing: 0) {
             ForEach(0..<snakeText.count) { num in
@@ -19,6 +20,7 @@ struct SnakeTextAnimation: View {
                     .padding(1)
                     .font(.title)
                     .background(isEnabled ? .blue : .red)
+                    .offset(dragAmount)
                     .animation(.default.delay(Double(num)/20), value: dragAmount)
             }
         }

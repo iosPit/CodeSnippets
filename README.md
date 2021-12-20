@@ -14,3 +14,5 @@ Capture code and lessons learned from YouTube tutorials.
 
 ## Animations
 * [Snake Text Animation](https://www.youtube.com/watch?v=-Xy1jBgGn7E)
+* 
+* ![](https://github.com/iosPit/CodeSnippets/blob/main/README_Assets/SnakeTextAnimation.gif)
