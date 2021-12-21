@@ -12,6 +12,7 @@
 		DB1A6D49276FE1CE00B86F05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB1A6D48276FE1CE00B86F05 /* Assets.xcassets */; };
 		DB1A6D4C276FE1CE00B86F05 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB1A6D4B276FE1CE00B86F05 /* Preview Assets.xcassets */; };
 		DB1A6D53276FE1F600B86F05 /* SnakeTextAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1A6D52276FE1F600B86F05 /* SnakeTextAnimation.swift */; };
+		DB1E508727718C3900F0B0E5 /* AnimateSingleElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1E508627718C3900F0B0E5 /* AnimateSingleElement.swift */; };
 		DBDA016727710C3B003BA697 /* AsymmetricTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDA016627710C3B003BA697 /* AsymmetricTransition.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		DB1A6D48276FE1CE00B86F05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB1A6D4B276FE1CE00B86F05 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DB1A6D52276FE1F600B86F05 /* SnakeTextAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnakeTextAnimation.swift; sourceTree = "<group>"; };
+		DB1E508627718C3900F0B0E5 /* AnimateSingleElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateSingleElement.swift; sourceTree = "<group>"; };
 		DBDA016627710C3B003BA697 /* AsymmetricTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsymmetricTransition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,7 @@
 				DB1A6D46276FE1CC00B86F05 /* ContentView.swift */,
 				DB1A6D52276FE1F600B86F05 /* SnakeTextAnimation.swift */,
 				DBDA016627710C3B003BA697 /* AsymmetricTransition.swift */,
+				DB1E508627718C3900F0B0E5 /* AnimateSingleElement.swift */,
 				DB1A6D48276FE1CE00B86F05 /* Assets.xcassets */,
 				DB1A6D4A276FE1CE00B86F05 /* Preview Content */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB1A6D47276FE1CC00B86F05 /* ContentView.swift in Sources */,
+				DB1E508727718C3900F0B0E5 /* AnimateSingleElement.swift in Sources */,
 				DB1A6D45276FE1CC00B86F05 /* AnimationsApp.swift in Sources */,
 				DBDA016727710C3B003BA697 /* AsymmetricTransition.swift in Sources */,
 				DB1A6D53276FE1F600B86F05 /* SnakeTextAnimation.swift in Sources */,
