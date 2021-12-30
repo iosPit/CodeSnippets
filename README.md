@@ -20,4 +20,6 @@ Capture code and lessons learned from YouTube tutorials.
 * Create swipe to delete gestures in Swift UI Lists
 * ![](https://github.com/iosPit/CodeSnippets/blob/main/README_Assets/DeletingRows.gif)
 
+## Red1Blue2Green3
+* [NavigationView and NavigationLink Tutorial - Sean Allen](https://www.youtube.com/watch?v=IopCl8sOyFA)
 
